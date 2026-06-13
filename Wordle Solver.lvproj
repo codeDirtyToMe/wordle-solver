@@ -12,6 +12,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Modules" Type="Folder">
+			<Item Name="WordleSolver.lvlib" Type="Library" URL="../Libraries/WordleSolver/WordleSolver.lvlib"/>
+		</Item>
+		<Item Name="Testers" Type="Folder">
+			<Item Name="Test WordleSolver API.vi" Type="VI" URL="../Libraries/WordleSolver/Test WordleSolver API.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
