@@ -1,0 +1,7 @@
+*.aliases
+*.lvlps
+*.tmp
+
+Builds/
+builds/
+bin/
