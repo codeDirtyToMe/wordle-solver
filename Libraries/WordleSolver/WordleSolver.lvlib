@@ -99,4 +99,5 @@
 	</Item>
 	<Item Name="Calculate Possible Solutions.vi" Type="VI" URL="../Calculate Possible Solutions.vi"/>
 	<Item Name="Calculate Possible Combinations.vi" Type="VI" URL="../Calculate Possible Combinations.vi"/>
+	<Item Name="Must Contain Regex.vi" Type="VI" URL="../Must Contain Regex.vi"/>
 </Library>
