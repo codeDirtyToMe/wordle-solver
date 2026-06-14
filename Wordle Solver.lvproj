@@ -14,6 +14,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Character Position Possible Letters.ctl" Type="VI" URL="../Controls/Character Position Possible Letters.ctl"/>
+			<Item Name="Must Contain.ctl" Type="VI" URL="../Controls/Must Contain.ctl"/>
 		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="WordleSolver.lvlib" Type="Library" URL="../Libraries/WordleSolver/WordleSolver.lvlib"/>

@@ -98,4 +98,5 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Calculate Possible Solutions.vi" Type="VI" URL="../Calculate Possible Solutions.vi"/>
+	<Item Name="Calculate Possible Combinations.vi" Type="VI" URL="../Calculate Possible Combinations.vi"/>
 </Library>
